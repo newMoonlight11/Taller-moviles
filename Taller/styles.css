@@ -48,7 +48,8 @@ aside{
     box-sizing: border-box;
 }
 
-footer {
+#footer {
+    margin-top: 800px;
     background-color: #050831;
     color: white;
     text-align: center;
