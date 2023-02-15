@@ -31,7 +31,7 @@ header nav ul li a:hover{
     background: #75acec;
 }
 .main .articles{
-    width: 68.5%;
+    width: 100%;
     float: left;
     margin-right: 1.5%;
 }
