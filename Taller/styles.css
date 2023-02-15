@@ -4,7 +4,7 @@
     padding: 0;
 }
 body{
-    background: #e6e6e6;
+    background: #fafafa;
 }
 header, .main, footer{
     width: 90%;
@@ -50,7 +50,7 @@ aside{
 
 #footer {
     margin-top: 800px;
-    background-color: #050831;
+    background-color: #ffa233;
     color: white;
     text-align: center;
     padding: 3px;
